@@ -1,5 +1,5 @@
 <center>
-    <img src="./images/logo.png" style="zoom:100%;" align="center"/>
+    <img src="./images/logo.png" style="zoom:36%;" align="center"/>
 </center>
 
 
