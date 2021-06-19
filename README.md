@@ -1,6 +1,6 @@
-<center>
-    <img src="./images/logo.png" style="zoom: 100%;" align="center"/>
-</center>
+
+<img src="./images/logo.png" style="zoom: 100%;" align="center"/>
+
 
 
 > YORYZORY / 요리조리 (ssafy 3rd 공통프로젝트)
